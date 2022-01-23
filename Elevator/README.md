@@ -95,20 +95,20 @@
 
 * 时间 50000，一台电梯，容量 12，总层数 10：
 
-![1](images\1.png)
+![1](images/1.png)
 
-![2](images\2.png)
+![2](images/2.png)
 
 * 时间 30000，三台电梯，容量 12，总层数 25：
 
-![3](images\3.png)
+![3](images/3.png)
 
-![4](images\4.png)
+![4](images/4.png)
 
-![5](images\5.png)
+![5](images/5.png)
 
 * 时间 20000，八台电梯，容量 12，总层数 40：
 
-![6](images\6.png)
+![6](images/6.png)
 
-![7](images\7.png)
+![7](images/7.png)
